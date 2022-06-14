@@ -1,2 +1,3 @@
 
 HI there what's app cpanel
+with next js server
